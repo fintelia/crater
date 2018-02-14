@@ -30,6 +30,7 @@ Crates with flaky test suites.
 - loaded_dice-0.1.1 - randomness
 - lodepng - command curl not found
 - lua53-ext-0.1.1 - flaky https://github.com/Jellonator/rust-lua53-ext/issues/1
+- median_three_quicksort-0.0.1 - randomness
 - milagro-crypto-0.1.14 - flaky
 - mock_me-0.2.2 - flaky https://github.com/craftytrickster/mock_me/issues/7
 - namedarg_hack-0.1.* - bad channel detection
